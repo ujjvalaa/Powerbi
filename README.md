@@ -1,4 +1,4 @@
-**Project Overview**
+**Hotel Revenue and Occupancy Dashboard**
 ![image](https://github.com/user-attachments/assets/53782e56-edba-451a-8ae7-2ebb21bd8499)
 
 
