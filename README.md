@@ -1,4 +1,6 @@
 **Project Overview**
+![image](https://github.com/user-attachments/assets/53782e56-edba-451a-8ae7-2ebb21bd8499)
+
 
 The Hotel Revenue and Occupancy Dashboard is a sophisticated analytics tool designed to provide detailed insights into the performance of hotel properties. This dashboard facilitates monitoring key performance metrics such as revenue, occupancy rates, and other critical indicators. It enables hotel management to make data-driven decisions to optimize operations and improve overall performance.
 
